@@ -12,6 +12,7 @@ public class Practica1 {
         System.out.println("Hola !!!");
         System.out.println(" prueba");
         
+        System.out.println("marcos estuvo aquí");
     }
     
 }
