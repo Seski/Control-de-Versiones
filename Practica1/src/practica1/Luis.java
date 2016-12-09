@@ -26,6 +26,8 @@ public class Luis {
         System.out.println("El perimetro de un triangulo de lado: " + lado +" es: " +perimetro);
         
         System.out.println("marcos estuvo aqui");
+        
+        System.out.println("Soy Alejandro");
     }
 
 }
