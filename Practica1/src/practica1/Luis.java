@@ -24,6 +24,8 @@ public class Luis {
         perimetro = lado * 3;
         System.out.println("El area del triangulo de lado: " +lado + " es: " +area); 
         System.out.println("El perimetro de un triangulo de lado: " + lado +" es: " +perimetro);
+        
+        System.out.println("marcos estuvo aqui");
     }
 
 }
